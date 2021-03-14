@@ -1,6 +1,5 @@
 <?php
 // Continuar da aula: Frente: Páginas.
-// Github projeto b7web para pegar arquivos https://github.com/suporteb7web/laravel1cms
 use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\Admin\HomeController as AdminHome;
